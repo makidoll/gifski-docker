@@ -1,5 +1,8 @@
 # Gifski in Docker
 
+-   GitHub: https://github.com/makitsune/gifski-docker
+-   Docker Hub: https://hub.docker.com/r/makitsune/gifski
+
 ## Running
 
 This will mount your current directory.
