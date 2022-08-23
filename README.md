@@ -1,6 +1,6 @@
 # Gifski in Docker
 
--   GitHub: https://github.com/makitsune/gifski-docker
+-   GitHub: https://github.com/makifoxgirl/gifski-docker
 -   Docker Hub: https://hub.docker.com/r/makitsune/gifski
 
 ## Running
