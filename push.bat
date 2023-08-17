@@ -1,3 +1,3 @@
 set /p version=< version.txt
-docker push makitsune/gifski:%version%
-docker push makitsune/gifski:latest
+docker push ghcr.io/makidrone/gifski:%version%
+docker push ghcr.io/makidrone/gifski:latest
